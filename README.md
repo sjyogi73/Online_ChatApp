@@ -1,6 +1,6 @@
-# Build a WhatsApp Clone with React JS, FireBase and Google Authentication
+# Build Private Chat App with React JS, FireBase and Google Authentication
 
-# Tech Stack
+# Dep For This Project
 - React js
 - Firebase Firestore Realtime DB
 - Material UI
@@ -9,6 +9,8 @@
 - Redux
 - Google Authentication
 
-Credit: Clever Programmer
-
-Checkout detail for firebase setup and config here: https://youtu.be/pUxrDcITyjg?t=645
+      git clone
+      
+      npm install
+      
+      npm start
