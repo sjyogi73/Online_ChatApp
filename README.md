@@ -7,6 +7,7 @@ Build Private Chat App with ( React JS ), ( FireBase & Google Authentication )
       
       npm start
       
+      Configure With Your Firebase
       
  # Used dependencys For This Project
       - React js
